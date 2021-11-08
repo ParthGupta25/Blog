@@ -1,0 +1,23 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.Places hr{
+    width:350px;
+}
+.stars_review span {
+    color:yellow;
+}
