@@ -21,3 +21,29 @@ input
 .stars_review span {
     color:yellow;
 }
+.Places{
+border:2px solid black;
+padding-left: 0px;
+padding-right: 0px;
+float:none;        
+}
+.Places img{
+     width: 100%;
+}
+.Places h5 , .Places p{
+    margin-left:20px;
+}
+.movies_section{
+    font-size:20px;
+    border-radius: 15px;
+    width:100%;
+    display:inline-block;
+    margin-bottom:15px;
+    padding:5px 25px;
+}
+.movies_section i{
+    float:right;
+}
+#about h5{
+    font-size:25px;
+}
